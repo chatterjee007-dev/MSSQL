@@ -1,4 +1,4 @@
-# Analyzing Employee Data for Promotions
+# Analyzing Employee Data for Promotions Using Data Retrieval and Filtering
 
 ## Project Overview  
 This project focuses on SQL data retrieval and manipulation to identify employees eligible for promotions. The goal is to demonstrate proficiency in SQL table creation, data manipulation, and complex query writing.
