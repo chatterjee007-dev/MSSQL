@@ -1,4 +1,4 @@
-# SQL Mastery Project: Top 5 Customers with Highest Order Amounts
+# Customer Order Analysis: Top 5 Clients by Purchase Volume
 
 ## Project Overview  
 This project focuses on mastering SQL database fundamentals through the creation and manipulation of a `customer_table`. The objective is to write SQL queries to identify the top 5 customers with the highest total order amounts. The goal is to showcase proficiency in SQL query writing, table creation, and data manipulation, making it a compelling demonstration for potential employers.
