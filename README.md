@@ -1,4 +1,4 @@
-# MSSQL Projects Repository
+# MS_SQL Projects Repository
 
 ## Repository Overview
 Welcome to my MSSQL projects repository. This collection showcases a range of SQL projects that demonstrate my proficiency in SQL query writing, table creation, data manipulation, and complex querying. Each project is designed to solve different real-world problems, providing insights into various SQL techniques and best practices.
