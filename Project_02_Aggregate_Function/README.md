@@ -1,4 +1,4 @@
-# Finding the Second Highest Salary
+# Finding the Second Highest Salary Using Aggregate Function
 
 ## Project Overview  
 This project focuses on using SQL aggregate functions to find the second highest salary in the "Salary" table without using the LIMIT clause. The goal is to demonstrate proficiency in writing complex SQL queries and manipulating data within a database.
